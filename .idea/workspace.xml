@@ -4,27 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Hello world.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding exercise 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested loop 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if, else, elif conditional statements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typecasting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while loops.py" afterDir="false" />
+    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +119,15 @@
       <option name="presentableId" value="Default" />
       <updated>1710943221360</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1711443915273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711443915273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,10 +135,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>

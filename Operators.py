@@ -54,7 +54,7 @@ print(x & y)
 # if they are different you get 0
 
 print(x | y)
-#bitwise or. if two numbers are zero, it gives zero, if its one then it will give you 1.
+#bitwise or. if two numbers are zero, it gives zero, if both are one you get 1.
 # if they are different you get 1
 
 print(x ^ y)
@@ -83,3 +83,33 @@ print(y << 2)
 #basically a right shift of any number (x >> y) = x/ (2 pow y) in int format not float
 print(x >> 2)
 print(y >> 2)
+print(26 & 23)
+print(17 | 24)
+print(~45)
+print(68 << 2)
+print(56 >> 3)
+
+#IDENTITY OPERATORS
+#they return true or false if the identity (memory location is the same or different)
+#they check memory location not value
+d = 5
+e = 5
+print(d is e)
+print(id(d))
+print(id(e))
+f = 6
+g ='6'
+print(f is not g)
+print(id(f))
+print(id(g))
+
+#MEMBERSHIP OPERATORS
+#Checks the membership of a character or substring in a sequence
+name = ('Charles')
+print('Ch' in name)
+print('Ch' not in name)
+#returns true if the character or substring is present in string
+print('y' in name )
+#can also be used to check for int values
+l1 = [2.4,17, -56, 30]
+print(2.4 in l1)
