@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="f string coding ex">
+      <change afterPath="$PROJECT_DIR$/Coding exercise 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested if, else elif statements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding ex 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coding ex 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nested loop 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nested for loop 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nested loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nested for loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,40 +44,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Coding ex 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Coding exercise 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.For loop 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.For loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Logical operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Nested loop 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Nested loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conditional statements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.math functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiple assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string slicing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.typecasting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while loops.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MWANGI/PycharmProjects/Hello world&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Coding ex 2.executor": "Run",
+    "Python.Coding exercise 1.executor": "Run",
+    "Python.Coding exercise 3.executor": "Run",
+    "Python.For loop 2.executor": "Run",
+    "Python.For loops.executor": "Run",
+    "Python.Logical operators.executor": "Run",
+    "Python.Nested if, else elif statements.executor": "Run",
+    "Python.Nested loop 2.executor": "Run",
+    "Python.Nested loops.executor": "Run",
+    "Python.Operators.executor": "Run",
+    "Python.Variables.executor": "Run",
+    "Python.conditional statements.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.math functions.executor": "Run",
+    "Python.multiple assignment.executor": "Run",
+    "Python.string methods.executor": "Run",
+    "Python.string slicing.executor": "Run",
+    "Python.typecasting.executor": "Run",
+    "Python.user input.executor": "Run",
+    "Python.while loops.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/MWANGI/PycharmProjects/Hello world",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MWANGI\PycharmProjects\Hello world" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hello world" />
       <option name="ENV_FILES" value="" />
@@ -141,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711532177468</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="f string coding ex">
+      <option name="closed" value="true" />
+      <created>1711616071814</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711616071814</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
