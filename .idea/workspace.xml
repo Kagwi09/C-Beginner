@@ -5,11 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="multiple if statements ex">
-      <change afterPath="$PROJECT_DIR$/Coding exercise 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding exercise 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Random module.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding ex 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coding_ex_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding exercise 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coding_exercise_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding exercise 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coding_exercise_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding exercise 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coding_exercise_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding exercise 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coding_exercise_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/For_loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nested for loop 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nested_for_loop_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nested for loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nested_for_loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nested if, else elif statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nested_if_else_elif_statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if, else, elif conditional statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/if_else_elif_conditional_statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user input.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/while_loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711697522423</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="multiple if statements ex">
+      <option name="closed" value="true" />
+      <created>1711806269050</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711806269050</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
