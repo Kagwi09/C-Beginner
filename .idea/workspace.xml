@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="nested lists">
-      <change afterPath="$PROJECT_DIR$/coding_exercise_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
-    </list>
+    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="nested lists" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -214,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711810415369</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="nested lists">
+      <option name="closed" value="true" />
+      <created>1711872454948</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711872454948</updated>
+    </task>
+    <task id="LOCAL-00013" summary="nested lists">
+      <option name="closed" value="true" />
+      <created>1711872517178</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711872517178</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +258,7 @@
     <MESSAGE value="f string coding ex" />
     <MESSAGE value="nested if statements ex" />
     <MESSAGE value="multiple if statements ex" />
+    <MESSAGE value="nested lists 2" />
     <MESSAGE value="nested lists" />
     <option name="LAST_COMMIT_MESSAGE" value="nested lists" />
   </component>
