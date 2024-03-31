@@ -34,8 +34,10 @@ print(list2)
 
 # NESTED LISTS
 # it's a list within a list
-list3 = [23, 29, 17, 'Me', [45, 67]]
+list3 = [[23, 29], [17, 'Me'],  [45, 67]]
 print(len(list3))
 # the inner list is considered as one item in the list
-print(list3[4])
-print(list3[4][1])
+print(list3[2])
+print(list3[0][1])
+print(f'{list3[0]}\n{list3[1]}\n{list3[2]}')
+
