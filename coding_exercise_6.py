@@ -3,7 +3,7 @@
 # this location should be ,marked with an 'x'
 list1 = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 print(f'{list1[0]}\n{list1[1]}\n{list1[2]}')
-position = input('Where do you want to place your data? (RC) : ')
+position = input('Input a two digit number between 11 and 33 where your data will be placed. : ')
 row_position = int(position[0])
 column_position = int(position[1])
 row_number = list1[row_position - 1]

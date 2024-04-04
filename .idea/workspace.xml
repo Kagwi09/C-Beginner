@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="nested lists">
+    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="nested lists 1">
+      <change afterPath="$PROJECT_DIR$/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_exercise_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding_exercise_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +64,10 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.math functions.executor&quot;: &quot;Run&quot;,
     &quot;Python.multiple assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sets.executor&quot;: &quot;Run&quot;,
     &quot;Python.string methods.executor&quot;: &quot;Run&quot;,
     &quot;Python.string slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuples.executor&quot;: &quot;Run&quot;,
     &quot;Python.typecasting.executor&quot;: &quot;Run&quot;,
     &quot;Python.user input.executor&quot;: &quot;Run&quot;,
     &quot;Python.while loops.executor&quot;: &quot;Run&quot;,
@@ -79,7 +84,7 @@
       <recent name="C:\Users\MWANGI\PycharmProjects\Hello world" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hello world" />
       <option name="ENV_FILES" value="" />
@@ -236,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711872668865</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="nested lists 1">
+      <option name="closed" value="true" />
+      <created>1711960669090</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711960669090</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,22 +283,7 @@
     <MESSAGE value="multiple if statements ex" />
     <MESSAGE value="nested lists 2" />
     <MESSAGE value="nested lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="nested lists" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/coding_exercise_6.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/coding_exercise_6.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="nested lists 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="nested lists 1" />
   </component>
 </project>
