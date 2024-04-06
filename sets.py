@@ -39,6 +39,10 @@ set1.pop()
 print(set1)
 print(set1.pop())
 
+# completely remove elements from a set and delete it
+# use del
+# e.g. del set1
+
 # OPERATIONS ON SETS
 set3 = {'aloe', 'clove', 'daisy'}
 set4 = {'clove', 'smooth', 'thyme'}
@@ -85,3 +89,31 @@ print(set3 ^ set4)
 # the second operator can be used on multiple sets e.g. set3 ^ set4 ^ set5
 set3.symmetric_difference_update(set4)
 print(set3)
+
+set3 = {'aloe', 'clove', 'daisy'}
+set4 = {'clove', 'smooth', 'thyme'}
+# DISJOINTED SETS
+# Two sets are said to be disjointed if they have nothing in common i.e. there's no intersection (empty set)
+# You can use the isdisjoint function to check. It returns true if there's nothing in common. False if there's
+# something in common
+# Doesn't have an operator
+# You can pass a list or a tuple as an argument
+print(set3.isdisjoint(set4))
+print(set3.isdisjoint(set5))
+
+# SUBSETS
+# checks if a set is a subset of another
+# e.g. set1.issubset(set2) checks if set2 has ALL elements of set1
+# it can use an operator (<=)
+# you can pass a set or a tuple
+print(set4.issubset(set5))
+print(set4 <= set5)
+
+# SUPERSETS
+# it's the reverse of subsets
+# e.g. set1.issuperset(set2) checks if set1 has all elements of set2
+# it can be used with an operator (>=)
+# you can pass a set or a tuple
+print(set4.issuperset(set5))
+print(set4 >= set5)
+

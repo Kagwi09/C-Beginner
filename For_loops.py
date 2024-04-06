@@ -1,17 +1,16 @@
-#used when the number of iterations is limited
-for i in range(10):
-    print(i)
-    #prints 0 to 9
-for i in range(10):
-    print(i+1)
-    #prints 0 to 10
-for i in range(50,100):
-    print(i)
-    #prints 50 to 99
-for i in range (50,100,2):
-    print(i)
-    #prints even numbers from 50 to 98
-for i in range(3):
-    chant = 'Bloody Mary'
-    print(chant)
-    #prints the string three times
+# used when the number of iterations is limited
+# it runs through each element in a sequence and executes a command with each
+list1 = ['mint', 'clove', 'sage', 'thyme']
+for herb in list1:
+    print(f'{herb} is a herb')
+    if herb == 'clove':
+        print('It is good for cooking pilau')
+# herb serves as a placeholder for  each element in the list until all iterations are complete
+
+numbers = [2, 3, 5, -2, 10]
+# print the squares of list2 in another list
+squares = []
+for i in numbers:
+    sqr = i ** 2
+    squares.append(sqr)
+print(squares)
