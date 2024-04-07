@@ -26,6 +26,8 @@ list1 =[10, 91, 30, 63, 87]
 b = random.choice(list1)
 print(b)
 #prints a random item from a list
+nu = random.choices(list1,  k=4 )
+print(nu)
 
 random.shuffle(list1)
 print(list1)
