@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="for loops">
-      <change afterPath="$PROJECT_DIR$/coding_exercise_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for_else.py" afterDir="false" />
+    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="coding ex 8">
+      <change afterPath="$PROJECT_DIR$/coding_exercise_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_exercise_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_exercise_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/For_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/For_loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for_else_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding_exercise_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +60,12 @@
     "Python.Operators.executor": "Run",
     "Python.Random module.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.coding_exercise_10.executor": "Run",
+    "Python.coding_exercise_11.executor": "Run",
     "Python.coding_exercise_6.executor": "Run",
     "Python.coding_exercise_7.executor": "Run",
     "Python.coding_exercise_8.executor": "Run",
+    "Python.coding_exercise_9.executor": "Run",
     "Python.conditional statements.executor": "Run",
     "Python.for_else.executor": "Run",
     "Python.main.executor": "Run",
@@ -270,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712412439986</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="coding ex 8">
+      <option name="closed" value="true" />
+      <created>1712484108374</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712484108374</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,6 +317,7 @@
     <MESSAGE value="nested lists 1" />
     <MESSAGE value="sets" />
     <MESSAGE value="for loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loops" />
+    <MESSAGE value="coding ex 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="coding ex 8" />
   </component>
 </project>
