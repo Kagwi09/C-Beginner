@@ -1,5 +1,5 @@
 # used when the number of iterations is limited
-# it runs through each element in a sequence and executes a command with each
+# it runs through each element in a sequence and executes the command with each
 list1 = ['mint', 'clove', 'sage', 'thyme']
 for herb in list1:
     print(f'{herb} is a herb')

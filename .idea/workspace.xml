@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="sets">
-      <change afterPath="$PROJECT_DIR$/range function.py" afterDir="false" />
+    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="for loops">
+      <change afterPath="$PROJECT_DIR$/coding_exercise_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_else.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/For_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/For_loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nested_for_loop_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nested_for_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nested_for_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_else_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_else_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding_exercise_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,10 @@
     "Python.Random module.executor": "Run",
     "Python.Variables.executor": "Run",
     "Python.coding_exercise_6.executor": "Run",
+    "Python.coding_exercise_7.executor": "Run",
+    "Python.coding_exercise_8.executor": "Run",
     "Python.conditional statements.executor": "Run",
+    "Python.for_else.executor": "Run",
     "Python.main.executor": "Run",
     "Python.math functions.executor": "Run",
     "Python.multiple assignment.executor": "Run",
@@ -260,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712253446424</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="for loops">
+      <option name="closed" value="true" />
+      <created>1712412439986</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1712412439986</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,6 +306,7 @@
     <MESSAGE value="nested lists" />
     <MESSAGE value="nested lists 1" />
     <MESSAGE value="sets" />
-    <option name="LAST_COMMIT_MESSAGE" value="sets" />
+    <MESSAGE value="for loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="for loops" />
   </component>
 </project>
