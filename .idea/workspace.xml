@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="fizzbuzz" />
+    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="Random_module_update">
+      <change afterPath="$PROJECT_DIR$/control_flow_statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/while_loops.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +59,7 @@
     "Python.Nested loops.executor": "Run",
     "Python.Operators.executor": "Run",
     "Python.Random module.executor": "Run",
+    "Python.Random_module.executor": "Run",
     "Python.Variables.executor": "Run",
     "Python.coding_exercise_10.executor": "Run",
     "Python.coding_exercise_11.executor": "Run",
@@ -62,10 +68,12 @@
     "Python.coding_exercise_8.executor": "Run",
     "Python.coding_exercise_9.executor": "Run",
     "Python.conditional statements.executor": "Run",
+    "Python.control_flow_statements.executor": "Run",
     "Python.for_else.executor": "Run",
     "Python.main.executor": "Run",
     "Python.math functions.executor": "Run",
     "Python.multiple assignment.executor": "Run",
+    "Python.random.executor": "Run",
     "Python.sets.executor": "Run",
     "Python.string methods.executor": "Run",
     "Python.string slicing.executor": "Run",
@@ -73,11 +81,12 @@
     "Python.typecasting.executor": "Run",
     "Python.user input.executor": "Run",
     "Python.while loops.executor": "Run",
+    "Python.while_loops.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/MWANGI/PycharmProjects/Hello world",
+    "last_opened_file_path": "C:/Users/MWANGI/PycharmProjects/python-Projects",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -283,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712498540448</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Random_module_update">
+      <option name="closed" value="true" />
+      <created>1712517670259</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1712517670259</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,6 +339,7 @@
     <MESSAGE value="for loops" />
     <MESSAGE value="coding ex 8" />
     <MESSAGE value="fizzbuzz" />
-    <option name="LAST_COMMIT_MESSAGE" value="fizzbuzz" />
+    <MESSAGE value="Random_module_update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Random_module_update" />
   </component>
 </project>
