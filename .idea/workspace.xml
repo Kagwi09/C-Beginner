@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="functions.py">
-      <change afterPath="$PROJECT_DIR$/Nested_dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding_exercise_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
+    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="dictionaries.py">
+      <change afterPath="$PROJECT_DIR$/coding_exercise_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_return_statements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding_exrercise_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding_exercise_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,7 @@
     &quot;Python.coding_exercise_12.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_13.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coding_exercise_17.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_6.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_7.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_8.executor&quot;: &quot;Run&quot;,
@@ -77,6 +77,7 @@
     &quot;Python.control_flow_statements.executor&quot;: &quot;Run&quot;,
     &quot;Python.dictionaries.executor&quot;: &quot;Run&quot;,
     &quot;Python.for_else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function_return_statements.executor&quot;: &quot;Run&quot;,
     &quot;Python.functions.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.math functions.executor&quot;: &quot;Run&quot;,
@@ -324,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713091564558</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="dictionaries.py">
+      <option name="closed" value="true" />
+      <created>1713688531198</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1713688531198</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -366,17 +375,7 @@
     <MESSAGE value="Random_module_update" />
     <MESSAGE value="control_flow_statements.py" />
     <MESSAGE value="functions.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="functions.py" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dictionaries.py</url>
-          <line>65</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="dictionaries.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="dictionaries.py" />
   </component>
 </project>

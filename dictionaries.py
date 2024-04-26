@@ -7,7 +7,7 @@ phone_no1 = {
 }
 print(phone_no1)
 
-# you can also mae a dictionary using dict function
+# you can also make a dictionary using dict function
 phone_no2 = dict({
     'Friend4': 1234,
     'Friend5': 23456,
