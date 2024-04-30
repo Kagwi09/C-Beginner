@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="dictionaries.py">
-      <change afterPath="$PROJECT_DIR$/coding_exercise_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_return_statements.py" afterDir="false" />
+    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="function_return_statements.py">
+      <change afterPath="$PROJECT_DIR$/local_and _global_scope.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +77,7 @@
     &quot;Python.for_else.executor&quot;: &quot;Run&quot;,
     &quot;Python.function_return_statements.executor&quot;: &quot;Run&quot;,
     &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.local_and _global_scope.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.math functions.executor&quot;: &quot;Run&quot;,
     &quot;Python.multiple assignment.executor&quot;: &quot;Run&quot;,
@@ -333,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713688531198</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="function_return_statements.py">
+      <option name="closed" value="true" />
+      <created>1714133658522</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1714133658522</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,6 +383,7 @@
     <MESSAGE value="control_flow_statements.py" />
     <MESSAGE value="functions.py" />
     <MESSAGE value="dictionaries.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="dictionaries.py" />
+    <MESSAGE value="function_return_statements.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="function_return_statements.py" />
   </component>
 </project>
