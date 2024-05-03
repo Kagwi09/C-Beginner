@@ -17,7 +17,7 @@ print(phone_no2)
 print(phone_no2['Friend4'])
 
 # in python 3.7 and above, dictionary items are ordered. That order can't be changed
-# eys are immutable (unchangeable) but values are mutable
+# keys are immutable (unchangeable) but values are mutable
 # duplicate keys are not allowed. If there are duplicate values, only the last key is considered
 
 # if you want to change the value of a key you can pass it as follows
@@ -64,4 +64,9 @@ for i in phone_no1.items():
 # the items function prints both key and value
 print(phone_no1)
 phone_no1.update({'Friend4': 8907})
+print(phone_no1)
+for i in phone_no1.items():
+    print(i)
+print(phone_no1)
+phone_no1.update({'Friend4': 897})
 print(phone_no1)

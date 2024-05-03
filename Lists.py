@@ -40,4 +40,3 @@ print(len(list3))
 print(list3[2])
 print(list3[0][1])
 print(f'{list3[0]}\n{list3[1]}\n{list3[2]}')
-
