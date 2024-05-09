@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="local_and _global_scope.py">
+      <change afterPath="$PROJECT_DIR$/OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_exercise_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_exercise_19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,8 @@
     &quot;Python.Nested loop 2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Nested loops.executor&quot;: &quot;Run&quot;,
     &quot;Python.Nested_dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OOP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OOP_inheritance.executor&quot;: &quot;Run&quot;,
     &quot;Python.Operators.executor&quot;: &quot;Run&quot;,
     &quot;Python.Random module.executor&quot;: &quot;Run&quot;,
     &quot;Python.Random_module.executor&quot;: &quot;Run&quot;,
@@ -68,6 +71,8 @@
     &quot;Python.coding_exercise_13.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_15.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coding_exercise_18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coding_exercise_19.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_6.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_7.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_8.executor&quot;: &quot;Run&quot;,
@@ -82,6 +87,7 @@
     &quot;Python.local_and _global_scope.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.math functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math_functions.executor&quot;: &quot;Run&quot;,
     &quot;Python.multiple assignment.executor&quot;: &quot;Run&quot;,
     &quot;Python.random.executor&quot;: &quot;Run&quot;,
     &quot;Python.sets.executor&quot;: &quot;Run&quot;,
@@ -97,9 +103,17 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/MWANGI/PycharmProjects/python-Projects&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
   }
 }</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Hello world" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Hello world" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MWANGI\PycharmProjects\Hello world" />
@@ -350,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714470532944</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="local_and _global_scope.py">
+      <option name="closed" value="true" />
+      <created>1714754409307</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1714754409307</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,5 +418,16 @@
     <MESSAGE value="function_return_statements.py" />
     <MESSAGE value="local_and _global_scope.py" />
     <option name="LAST_COMMIT_MESSAGE" value="local_and _global_scope.py" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
