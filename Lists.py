@@ -40,3 +40,8 @@ print(len(list3))
 print(list3[2])
 print(list3[0][1])
 print(f'{list3[0]}\n{list3[1]}\n{list3[2]}')
+# list comprehension
+print(list2)
+# creates a new list from numbers in list2 that are even
+even_list2 = [x for x in list2 if x % 2 == 0]
+print(even_list2)

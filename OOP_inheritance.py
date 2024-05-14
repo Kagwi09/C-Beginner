@@ -211,3 +211,36 @@ male1 = Male('doug', 7, 'ke')  # once a new attribute is introduced in Male subc
 human1 = Human('me', 9)
 human1.show_details()
 female1.show_details()
+
+# 5. HYBRID INHERITANCE
+# It's a combination of two or more types of inheritance
+# MRO follows rules of specific inheritance types
+# MRO of class D is D -> B -> A -> C
+
+
+class A:
+
+    @staticmethod
+    def display():
+        print('display from A class')
+
+
+class B(A):
+    def display(self):
+        print('display from B class')
+
+
+class C:
+    @staticmethod
+    def show():
+        print('Hi from C class')
+
+
+class D(B, C):
+    def display(self):
+        print('print from D class')
+
+
+d1 = D()
+d1.display()
+print(D.mro())

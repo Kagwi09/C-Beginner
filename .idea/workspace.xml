@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="local_and _global_scope.py">
-      <change afterPath="$PROJECT_DIR$/OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding_exercise_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding_exercise_19.py" afterDir="false" />
+    <list default="true" id="700b19d5-daeb-4fcf-85ad-7afb6ee00b1b" name="Changes" comment="OOP">
+      <change afterPath="$PROJECT_DIR$/coding_exercise_20(diamond_problem).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diamond_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,8 @@
     &quot;Python.coding_exercise_17.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_18.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coding_exercise_20(diamond_problem).executor&quot;: &quot;Run&quot;,
+    &quot;Python.coding_exercise_20.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_6.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_7.executor&quot;: &quot;Run&quot;,
     &quot;Python.coding_exercise_8.executor&quot;: &quot;Run&quot;,
@@ -80,7 +83,9 @@
     &quot;Python.coding_exrercise_14.executor&quot;: &quot;Run&quot;,
     &quot;Python.conditional statements.executor&quot;: &quot;Run&quot;,
     &quot;Python.control_flow_statements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diamond_problem.executor&quot;: &quot;Run&quot;,
     &quot;Python.dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_handling.executor&quot;: &quot;Run&quot;,
     &quot;Python.for_else.executor&quot;: &quot;Run&quot;,
     &quot;Python.function_return_statements.executor&quot;: &quot;Run&quot;,
     &quot;Python.functions.executor&quot;: &quot;Run&quot;,
@@ -104,6 +109,11 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/MWANGI/PycharmProjects/python-Projects&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Shell Script&quot;
+    ]
   }
 }</component>
   <component name="PyConsoleOptionsProvider">
@@ -119,7 +129,7 @@
       <recent name="C:\Users\MWANGI\PycharmProjects\Hello world" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hello world" />
       <option name="ENV_FILES" value="" />
@@ -372,7 +382,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714754409307</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="OOP">
+      <option name="closed" value="true" />
+      <created>1715273128902</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1715273128902</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,7 +435,8 @@
     <MESSAGE value="dictionaries.py" />
     <MESSAGE value="function_return_statements.py" />
     <MESSAGE value="local_and _global_scope.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="local_and _global_scope.py" />
+    <MESSAGE value="OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
